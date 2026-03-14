@@ -2,4 +2,7 @@ node_modules/
 dist/
 .env
 *.js.map
+out.txt
+err.txt
+test-api.js
 
